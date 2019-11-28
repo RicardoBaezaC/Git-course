@@ -31,7 +31,7 @@ Regresa los cambios al archivo
 git diff nombredelarchivo.ext
 Muestra las diferencias en los cambios hechos
 
-git commit -m mensaje
+git commit -m "mensaje"
 Para no tener que abrir un editor
 
 git branch

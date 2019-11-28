@@ -1,0 +1,53 @@
+pwd
+Muestra la direccion donde nos encontramos
+
+cd
+Cambiar direccion
+
+ls
+Muestra los archivos dentro de la direccion
+
+git init
+Inicializa un proyecto
+
+git status
+Ver el estado de nuestros archivos
+
+git add nombredearchivo.ext
+Agrega los archivos al seguimiento
+
+git add .
+Agrega todos archivos dentro del proyecto
+
+git commit
+Hace la subida del proyecto o cambios
+
+git log
+Muestra todas las versiones del proyecto
+
+git restore nombredelarchivo.ext
+Regresa los cambios al archivo
+
+git diff nombredelarchivo.ext
+Muestra las diferencias en los cambios hechos
+
+git commit -m mensaje
+Para no tener que abrir un editor
+
+git branch
+Muestra la version
+
+git branch nombre
+Crea version alternativa
+
+git checkout nombre
+Cambias a la otra version
+
+git remote add origin direcciondegithub
+Agregas a github el proyecto
+
+git push -u origin master
+Lo agrega
+
+git clone direcciondegithub
+Descarga el proyecto
